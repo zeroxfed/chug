@@ -1,4 +1,3 @@
-# chug
 Github chugger by 0xFED
 
 Usage:
